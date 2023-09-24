@@ -1,0 +1,49 @@
+body {
+
+    font-size: 20px;
+    background-color: black;
+}
+
+p {
+    text-align: center ;
+    color: green;
+}
+
+h1 { 
+    text-align: center;
+    color: orange;
+}
+
+
+h2,h3,h4,h5,h6 {
+    text-align: center;
+    color: purple;
+    font-size: 20px;
+}
+
+
+.destacado {
+    text-decoration: underline;
+}
+
+
+#Crete {font-family: 'Crete Round', serif;  
+        font-weight: bold;
+}
+
+#Yantramanav {font-family: 'Yantramanav', sans-serif;}
+
+
+#handjet{font-family:"Handjet", cursive}
+
+#Mali{ font-family: "Mali", cursive;
+    font-weight: bold;}
+
+#Monofett {font-family: "Monofett",
+    monospace;}
+
+
+
+
+    
+
